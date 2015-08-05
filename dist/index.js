@@ -358,9 +358,9 @@
   System.register(...);
 }); */
 
-(['src/components/Layout/src/index'], function(System) {
+(['src/index'], function(System) {
 
-System.register("src/components/Layout/src/index", [], function (_export) {
+System.register("src/index", [], function (_export) {
   "use strict";
 
   return {
